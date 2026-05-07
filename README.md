@@ -282,7 +282,7 @@ Melalui project ini, pembelajaran yang didapat antara lain:
 
 # 👨‍💻 Author
 
-Nama: Raja Antawijaya
+Kelompok 4: Raja Antawijaya, Mardiani, Gempar Dirgantoro Saputra Dewa
 Project: Tugas Project Akhir Semester
 Jurusan: Teknik Informatika
 
